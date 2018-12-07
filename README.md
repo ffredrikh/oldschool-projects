@@ -1,5 +1,7 @@
 # oldschool projects
 
+Stuff I did at uni.
+
 - android drawing app (java)	- App for leisure drawing on a android device.
 
 - chat server and client (java)	- Basic client server interaction.
