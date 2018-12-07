@@ -1,6 +1,6 @@
 # oldschool projects
 
-Stuff I did at uni.
+Some stuff I did at uni.
 
 - android drawing app (java)	- App for leisure drawing on a android device.
 
