@@ -8,6 +8,6 @@ Some stuff I did at uni.
 
 - irc client (java)	- Internet relay chat client.
 
-- path finding (java) - Find shortest path between two nodes in a graph network using Dijkstras algorithm.
+- pathfinding (java) - Find shortest path between two nodes in a graph network using Dijkstras algorithm.
 
 - space shooter (c++) - Topdown 2d space shooter, space invaders style.
